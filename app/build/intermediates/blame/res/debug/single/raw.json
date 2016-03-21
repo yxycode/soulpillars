@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\res\\merged\\debug\\raw\\swoosh.mp3",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\src\\main\\res\\raw\\swoosh.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bump.mp3",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\src\\main\\res\\raw\\bump.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\res\\merged\\debug\\raw\\softland.mp3",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\src\\main\\res\\raw\\softland.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\build\\intermediates\\res\\merged\\debug\\raw\\scatter.ogg",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Soul Pillars\\app\\src\\main\\res\\raw\\scatter.ogg"
+    }
+]

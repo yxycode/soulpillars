@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_cc6da8ee32200d29327f88339ca43f8d3796da1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_fee453f691964b2021113862822ed93fc9cec97e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_f51433293dc62ea117d0bcab2a935678f907b367.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_67141a2960f3d6b6ca2d77dd00b9142b0da1596c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_92b492be45693ace14140e2a0bc09805323168af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_5413172b0aa7ea7929af152cb45a26827b25c1da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_33b1fa5b1e171d0f17c7e006696fa194fbebdb5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_fcec10a9e36a25943d7c28bb7c85dfadde3cecd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_09c0af046a7fecb7a347814ecdfc3d1daef0ba24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_0fcff82d90b5f70d457ca00cfe429afdf08eeb3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_81fb9823b396633f7b86fa86a7c58e53abfe00cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_da15cf57d742525bcfb13855e3005ec153f242ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_4137cc2688012424250e324bce9e1cf9a354f019.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_3f4e9f0dff363fc499220f7c236b44ec27dace04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_6ca0a89bd89b5a50dc9d6a58fe693116b703ef51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_56956cfd1d7a3eaaac3bc2b0c07622e69bbc442c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_44ea865710a5252c772eba1854d7025a45a0e0dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_571052f2e282f494f77759d6f11aa0f6b42c8448.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_8b26739c4dd3737a551315afc57b2440d3956e3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_9480726af73afee8d6f1f5a4be460277929621a5.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_4d53806161c963d7085817c3ae8dd70af34d0268.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_256f66f60b9669c532b0df0cb1ccecfcf5e6cdb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_3c583138566bae1369c99c23fa9a6140a535d0f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_29f29512dae9c259b810be0455d1033e81b79847.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_911461e49a1f76c11af5631727c86839a943cf78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_319db85b2c64dd7b1a05646c497c38a1e446c256.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_f429d40f8e431423086605d82f226371a425039d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_769fc9340fb3436753de016986795bd4613e725e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Inexis\StudioProjects\Soul Pillars\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_8353dc67ad9ad44ac215c5ebc480d06596385919.jar" />
+    </item>
+
+</items>
